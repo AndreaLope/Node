@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AndreaLope/Node/issues"
   },
-  "homepage": "https://github.com/AndreaLope/Node#readme"
+  "homepage": "https://github.com/AndreaLope/Node#readme",
+  "devDependencies": {
+    "eslint": "^6.4.0"
+  }
 }
